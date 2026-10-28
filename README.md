@@ -1,6 +1,13 @@
-# Wine Classification with MLflow
-
-A small MLflow workflow for validating scikit-learn's wine dataset, training a classifier and registering a model.
+<div align="center">
+  <h1>Wine Classification with MLflow</h1>
+  <p>A small MLflow workflow for validating scikit-learn&#x27;s wine dataset, training a classifier and registering a model.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square" alt="Python 3.10">
+    <img src="https://img.shields.io/badge/MLflow-Registry-0194E2?style=flat-square" alt="MLflow registry">
+    <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square" alt="scikit-learn">
+  </p>
+  <p><a href="#workflow">Workflow</a> · <a href="#run-locally">Run locally</a> · <a href="#evaluation-limits">Evaluation limits</a></p>
+</div>
 
 ## Workflow
 
